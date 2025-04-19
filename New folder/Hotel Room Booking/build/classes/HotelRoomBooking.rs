@@ -1,0 +1,4 @@
+HotelEntity
+Booking
+Room
+HotelRoomBooking
